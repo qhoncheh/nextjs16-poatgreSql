@@ -8,6 +8,6 @@ generator client {
   output   = "../lib/generated/prisma"
 }
 
-datasource db {
+datasource db { 
   provider = "postgresql"
 }
