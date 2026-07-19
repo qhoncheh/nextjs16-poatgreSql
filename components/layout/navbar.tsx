@@ -5,9 +5,7 @@ const Navbar = () => {
     <header>
       <div>
         <Link href="/"
-        className={
-          "flex items-center gap-2"
-        }
+        className={"flex items-center gap-2"} />
       </div>
     </header>
   )
